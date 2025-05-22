@@ -172,3 +172,7 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# OAuth client secrets 
+client_secrets.yaml
+client_secrets.json
