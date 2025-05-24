@@ -176,3 +176,6 @@ cython_debug/
 # OAuth client secrets 
 client_secrets.yaml
 client_secrets.json
+
+token.pickle
+*.db
